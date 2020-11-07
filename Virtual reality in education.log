@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  7 NOV 2020 00:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.7)  7 NOV 2020 03:02
 entering extended mode
 **"./Virtual reality in education.tex"
 ("Virtual reality in education.tex"
@@ -322,20 +322,20 @@ Package hyperref Warning: Composite letter `\textasciicaron+l'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 95.
 
-("Virtual reality in education.bbl" [3]) [4] ("Virtual reality in education.aux
+[3] ("Virtual reality in education.bbl") [4] ("Virtual reality in education.aux
 ")
 Package rerunfilecheck Info: File `"Virtual reality in education".out' has not 
 changed.
 (rerunfilecheck)             Checksum: D5C5A67090638A96A374D63487CD4A46;735.
  ) 
 Here is how much of TeX's memory you used:
- 6536 strings out of 479799
- 100619 string characters out of 2869723
- 412952 words of memory out of 3000000
- 23388 multiletter control sequences out of 15000+200000
+ 6538 strings out of 479799
+ 100561 string characters out of 2869723
+ 413980 words of memory out of 3000000
+ 23389 multiletter control sequences out of 15000+200000
  546648 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,7n,72p,843b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,7n,72p,869b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 sti10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
 pi600\csbx12.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
@@ -351,9 +351,9 @@ i\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\User
 s\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C
 :\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.
 pk>
-Output written on "Virtual reality in education.pdf" (4 pages, 147474 bytes).
+Output written on "Virtual reality in education.pdf" (4 pages, 149689 bytes).
 PDF statistics:
- 503 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
+ 505 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
