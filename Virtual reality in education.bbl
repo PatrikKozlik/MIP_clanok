@@ -1,5 +1,11 @@
 \begin{thebibliography}{1}
 
+\bibitem{Math}
+R.~{Liu}, C.~{Liu}, and Y.~{Ren}.
+\newblock A virtual reality application for primary school mathematics class.
+\newblock In {\em 2018 International Symposium on Educational Technology
+  (ISET)}, pages 138--141, 2018.
+
 \bibitem{Physics}
 A.~Al-Amri, M.~Osman, and A.~A. Musawi.
 \newblock The effectiveness of a 3d-virtual reality learning environment
@@ -16,12 +22,6 @@ H.~H.~S. Ip, S.~W.~L. Wong, D.~F.~Y. Chan, J.~Byrne, C.~Li, V.~S.~N. Yuan,
   autism spectrum disorder: A virtual reality enabled approach.
 \newblock {\em Computers and Education}, 117:1--15, 2018.
 \newblock Cited By :45.
-
-\bibitem{Math}
-R.~{Liu}, C.~{Liu}, and Y.~{Ren}.
-\newblock A virtual reality application for primary school mathematics class.
-\newblock In {\em 2018 International Symposium on Educational Technology
-  (ISET)}, pages 138--141, 2018.
 
 \bibitem{Muzeum}
 Nikoletta Zouboula, Emmanuel Fokides, Costas Tsolakidis, and Costas Vratsalis.

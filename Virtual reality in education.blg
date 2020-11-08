@@ -1,48 +1,48 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Virtual reality in education.aux
-Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: literatura.bib
 You've used 4 entries,
-            2118 wiz_defined-function locations,
-            530 strings with 5124 characters,
-and the built_in function-call counts, 1631 in all, are:
-= -- 150
-> -- 102
+            1791 wiz_defined-function locations,
+            478 strings with 4649 characters,
+and the built_in function-call counts, 1075 in all, are:
+= -- 86
+> -- 62
 < -- 1
-+ -- 42
-- -- 36
-* -- 128
-:= -- 281
++ -- 22
+- -- 18
+* -- 80
+:= -- 179
 add.period$ -- 14
 call.type$ -- 4
-change.case$ -- 30
+change.case$ -- 4
 chr.to.int$ -- 0
 cite$ -- 4
-duplicate$ -- 55
-empty$ -- 107
-format.name$ -- 36
-if$ -- 334
+duplicate$ -- 47
+empty$ -- 95
+format.name$ -- 18
+if$ -- 240
 int.to.chr$ -- 0
 int.to.str$ -- 4
 missing$ -- 4
 newline$ -- 25
-num.names$ -- 8
-pop$ -- 25
+num.names$ -- 4
+pop$ -- 7
 preamble$ -- 1
-purify$ -- 26
+purify$ -- 0
 quote$ -- 0
-skip$ -- 42
+skip$ -- 26
 stack$ -- 0
-substring$ -- 74
+substring$ -- 52
 swap$ -- 14
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
+type$ -- 0
 warning$ -- 0
-while$ -- 12
+while$ -- 8
 width$ -- 5
 write$ -- 50
