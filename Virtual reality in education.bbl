@@ -1,5 +1,14 @@
 \begin{thebibliography}{1}
 
+\bibitem{VR}
+Sohhyoun Yoon.
+\newblock Virtual reality and museum: An educational application for museum
+  education.
+\newblock May 2010.
+\newblock \url{
+  http://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=3020&context=etd
+  }.
+
 \bibitem{Math}
 R.~{Liu}, C.~{Liu}, and Y.~{Ren}.
 \newblock A virtual reality application for primary school mathematics class.
@@ -28,6 +37,6 @@ Nikoletta Zouboula, Emmanuel Fokides, Costas Tsolakidis, and Costas Vratsalis.
 \newblock Virtual reality and museum: An educational application for museum
   education.
 \newblock {\em International Journal of Emerging Technologies in Learning
-  (iJET)}, 3(2008), July 2008.
+  (iJET)}, 3(2008), May 2008.
 
 \end{thebibliography}
