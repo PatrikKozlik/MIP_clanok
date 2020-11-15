@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  15 NOV 2020 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  15 NOV 2020 02:31
 entering extended mode
 **"./Virtual reality in education.tex"
 ("Virtual reality in education.tex"
@@ -318,35 +318,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Package hyperref Warning: Composite letter `\textasciicaron+l'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 90.
+(hyperref)                removing `\textasciicaron' on input line 89.
 
-[3] ("Virtual reality in education.bbl"
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+("Virtual reality in education.bbl"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 10.
-
-Underfull \vbox (badness 5563) has occurred while \output is active []
-
- [4])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
-
-[5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
+ [5])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
  ("Virtual reality in education.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
 Package rerunfilecheck Info: File `"Virtual reality in education".out' has not 
 changed.
 (rerunfilecheck)             Checksum: D5C5A67090638A96A374D63487CD4A46;735.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
  ) 
 Here is how much of TeX's memory you used:
- 6554 strings out of 480790
- 100338 string characters out of 2897301
- 377354 words of memory out of 3000000
- 22423 multiletter control sequences out of 15000+200000
+ 6557 strings out of 480790
+ 100363 string characters out of 2897301
+ 379382 words of memory out of 3000000
+ 22424 multiletter control sequences out of 15000+200000
  544194 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,31p,1840b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,31p,1840b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
 sti10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
 pi600\cstt10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
@@ -363,9 +363,9 @@ rs\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <
 C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200
 .pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
 \csr17.pk>
-Output written on "Virtual reality in education.pdf" (5 pages, 164844 bytes).
+Output written on "Virtual reality in education.pdf" (6 pages, 164170 bytes).
 PDF statistics:
- 549 PDF objects out of 1000 (max. 8388607)
- 23 named destinations out of 1000 (max. 500000)
+ 546 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
