@@ -1,14 +1,5 @@
 \begin{thebibliography}{1}
 
-\bibitem{VR}
-Sohhyoun Yoon.
-\newblock Virtual reality and museum: An educational application for museum
-  education.
-\newblock May 2010.
-\newblock \url{
-  http://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=3020&context=etd
-  }.
-
 \bibitem{Procon}
 Veronica~S. Pantelidis.
 \newblock Reasons to use virtual reality in education and training courses and
@@ -16,6 +7,14 @@ Veronica~S. Pantelidis.
 \newblock In {\em THEMES IN SCIENCE AND TECHNOLOGY EDUCATION}, pages 59--70.
 \newblock
   \url{http://earthlab.uoi.gr/ojs/theste/index.php/theste/article/view/22/17 }.
+
+\bibitem{VR}
+Sohhyoun Yoon.
+\newblock Virtual reality in art education.
+\newblock May 2010.
+\newblock \url{
+  http://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=3020&context=etd
+  }.
 
 \bibitem{Math}
 R.~{Liu}, C.~{Liu}, and Y.~{Ren}.

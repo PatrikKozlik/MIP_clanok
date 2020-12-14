@@ -10,11 +10,12 @@ I was expecting a `,' or a `}'---line 23 of file literatura.bib
  : @INPROCEEDINGS{Math,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--empty journal in VR
+Warning--I didn't find a database entry for "Phisics"
 Warning--empty year in Procon
+Warning--empty journal in VR
 You've used 6 entries,
             1791 wiz_defined-function locations,
-            491 strings with 5059 characters,
+            495 strings with 5123 characters,
 and the built_in function-call counts, 1516 in all, are:
 = -- 126
 > -- 70

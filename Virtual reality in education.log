@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  15 NOV 2020 02:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.9.30)  14 DEC 2020 17:13
 entering extended mode
 **"./Virtual reality in education.tex"
 ("Virtual reality in education.tex"
@@ -219,6 +219,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
+(C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count188
+\float@exts=\toks18
+\float@box=\box45
+\@float@everytoks=\toks19
+\@floatcapt=\box46
+)
 (C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
@@ -227,8 +235,8 @@ Package: cite 2015/02/27  v 5.5
 (C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 mode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count188
-\l__pdf_internal_box=\box45
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box47
 ) ("Virtual reality in education.aux")
 \openout1 = `"Virtual reality in education.aux"'.
 
@@ -254,17 +262,17 @@ LaTeX Font Info:    ... okay on input line 33.
 (C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count189
+\scratchcounter=\count190
 \scratchdimen=\dimen142
-\scratchbox=\box46
-\nofMPsegments=\count190
-\nofMParguments=\count191
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count192
+\scratchbox=\box48
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count193
 \MPscratchDim=\dimen143
-\MPnumerator=\count193
-\makeMPintoPDFobject=\count194
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks21
 )
 (C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -272,7 +280,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\AtBeginShipoutBox=\box47
+\AtBeginShipoutBox=\box49
 Package hyperref Info: Link coloring OFF on input line 33.
 
 (C:\Users\patri\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
@@ -285,7 +293,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count195
+\c@section@level=\count196
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
@@ -314,58 +322,91 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{C:/Users/patri/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+{C:/Users/patri/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<VR_tabulka-crop.pdf, id=70, 491.8375pt x 188.705pt>
+File: VR_tabulka-crop.pdf Graphic file (type pdf)
+<use VR_tabulka-crop.pdf>
+Package pdftex.def Info: VR_tabulka-crop.pdf  used on input line 78.
+(pdftex.def)             Requested size: 284.53798pt x 109.16966pt.
+ [2] [3pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.94 
+      <./VR_tabulka-crop.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+l'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 89.
+(hyperref)                removing `\textasciicaron' on input line 96.
 
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[4]
+<diagram.png, id=122, 883.3pt x 481.8pt>
+File: diagram.png Graphic file (type png)
+<use diagram.png>
+Package pdftex.def Info: diagram.png  used on input line 118.
+(pdftex.def)             Requested size: 312.97392pt x 170.71304pt.
+ [5] [6pdfTeX warning (ext4): destination with the same identifier (name{figure
+.2}) has been already used, duplicate ignored
 
- [4]
-("Virtual reality in education.bbl"
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.132 
+       <./diagram.png (PNG copy)>] ("Virtual reality in education.bbl"
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
- [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+(Font)              <7> on input line 9.
+
+Underfull \hbox (badness 3536) in paragraph at lines 12--18
+[]\IL2/cmr/m/n/10 Sohhyoun Yoon.  Vir-tual re-a-lity in art edu-ca-tion.  May 2
+010.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
+[]$\IL2/cmtt/m/n/10 http : / / scholarscompass . vcu . edu / cgi / viewcontent 
+. cgi ? article =
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
  ("Virtual reality in education.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `"Virtual reality in education".out' has not 
 changed.
 (rerunfilecheck)             Checksum: D5C5A67090638A96A374D63487CD4A46;735.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 117.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 141.
  ) 
 Here is how much of TeX's memory you used:
- 6557 strings out of 480790
- 100363 string characters out of 2897301
- 379382 words of memory out of 3000000
- 22424 multiletter control sequences out of 15000+200000
- 544194 words of font info for 52 fonts, out of 3000000 for 9000
+ 6641 strings out of 480790
+ 101530 string characters out of 2897301
+ 377778 words of memory out of 3000000
+ 22495 multiletter control sequences out of 15000+200000
+ 544772 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,31p,1840b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,7n,31p,1917b,370s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\c
-sti10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
-pi600\cstt10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
-fonts/dpi600\csbx12.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/pu
-blic/csfonts/dpi600\cssl10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/lj
-four/public/csfonts/dpi600\csr8.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/
-pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\patri\AppData\Local\MiKTeX\
-fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\patri\AppData\Local\M
-iKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\patri\AppData\
-Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\patri\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\pa
-tri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Use
-rs\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <
-C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200
-.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
-\csr17.pk>
-Output written on "Virtual reality in education.pdf" (6 pages, 164170 bytes).
+stt10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
+pi600\csti10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cs
+fonts/dpi600\csbx10.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/pu
+blic/csfonts/dpi600\csbx12.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/lj
+four/public/csfonts/dpi600\cssl10.pk> <C:\Users\patri\AppData\Local\MiKTeX\font
+s/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\patri\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\patri\AppData\Local\
+MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\patri\AppData\
+Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\patri\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\p
+atri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\U
+sers\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> 
+<C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr1
+2.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
+crm1200.pk> <C:\Users\patri\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts
+/dpi600\csr17.pk>
+Output written on "Virtual reality in education.pdf" (7 pages, 771993 bytes).
 PDF statistics:
- 546 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 89 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 635 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 
